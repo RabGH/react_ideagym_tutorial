@@ -1,0 +1,16 @@
+.notfound__container {
+    display: grid;
+    place-items: center;
+    gap: 3rem;
+}
+
+.notfound__container {
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.notfound__container .btn {
+    margin-top: 1.2rem;
+    margin-bottom: 4rem;
+    display: inline-block;
+}
